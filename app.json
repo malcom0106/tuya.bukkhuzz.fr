@@ -1,0 +1,31 @@
+{
+  "_comment": "",
+  "id": "tuya.bukkhuzz.fr",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Module Tuya Bukkhuzz",
+    "fr": "Module Tuya Bukkhuzz"
+  },
+  "description": {
+    "en": "Adds support for Tuya devices.",
+    "fr": "Prise en charge de module Tuya."
+  },
+  "category": [
+    "lights",
+    "appliances"
+  ],
+  "permissions": ["homey:wireless:zigbee"],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png"
+  },
+  "author": {
+    "name": "Maxime Rogogine",
+    "email": "rogogine.maxime@gmail.com"
+  }
+}
